@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2014 Bernhard Fischer <bernhard@fischli.org>
+  ~ Schoenstatt Family League <http://www.schoenstatt.org/>
+  ~
+  ~ This file is part of Daily Message
+  ~
+  ~ Daily Message is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Daily Message is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Daily Message. If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <!-- PT -->
+    <string name="app_name">Mensagem Diária</string>
+    <string name="settings">Definições</string>
+    <string name="done">Concluído</string>
+    <string name="settings_language">Seleção de linguagem</string>
+    <string name="lang_de">alemão</string>
+    <string name="lang_en">inglês</string>
+    <string name="lang_es">espanhol</string>
+    <string name="lang_fr">francês</string>
+    <string name="lang_it">italiano</string>
+    <string name="lang_pt">português</string>
+    <string name="settings_info">Debug</string>
+    <string name="show_index">Mostrar índice</string>
+    <string name="about_info">Informações</string>
+    <string name="about_dialog_ok">Ok</string>
+    <string name="about_dialog_message">Schönstatt Rama das Famílias\nDiocese Rottenburg-Stuttgart</string>
+    <string name="version">versão</string>
+</resources>

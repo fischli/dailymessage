@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2014 Bernhard Fischer <bernhard@fischli.org>
+  ~ Schoenstatt Family League <http://www.schoenstatt.org/>
+  ~
+  ~ This file is part of Daily Message
+  ~
+  ~ Daily Message is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Daily Message is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Daily Message. If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <!-- ES -->
+    <string name="app_name">Teléfono del Padre</string>
+    <string name="settings">Opciones</string>
+    <string name="done">listo</string>
+    <string name="settings_language">Selección de Idioma</string>
+    <string name="lang_de">alemán</string>
+    <string name="lang_en">inglés</string>
+    <string name="lang_es">español</string>
+    <string name="lang_fr">francés</string>
+    <string name="lang_it">italiano</string>
+    <string name="lang_pt">portugués</string>
+    <string name="settings_info">Debug</string>
+    <string name="show_index">índice</string>
+    <string name="about_info">Acerca de</string>
+    <string name="about_dialog_ok">OK</string>
+    <string name="about_dialog_message">Schönstatt Liga de Familias\nDiócesis Rottenburg-Stuttgart</string>
+    <string name="version">Versión</string>
+</resources>

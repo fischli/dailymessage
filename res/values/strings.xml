@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2014 Bernhard Fischer <bernhard@fischli.org>
+  ~ Schoenstatt Family League <http://www.schoenstatt.org/>
+  ~
+  ~ This file is part of Daily Message
+  ~
+  ~ Daily Message is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Daily Message is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Daily Message. If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <!-- default EN -->
+    <string name="app_name">Daily Message</string>
+    <string name="settings">Settings</string>
+    <string name="done">done</string>
+    <string name="settings_language">Language</string>
+    <string name="lang_de">german</string>
+    <string name="lang_en">english</string>
+    <string name="lang_es">spanish</string>
+    <string name="lang_fr">french</string>
+    <string name="lang_it">italian</string>
+    <string name="lang_pt">portuguese</string>
+    <string name="settings_info">Information</string>
+    <string name="show_index">show index</string>
+    <string name="about_info">About</string>
+    <string name="about_dialog_ok">OK</string>
+    <string name="about_dialog_message">Schönstatt Family League\ndiocese Rottenburg-Stuttgart</string>
+    <string name="app_author">Bernhard Fischer</string>
+    <string name="app_email">info@familienliga.de</string>
+    <string name="app_url">http://mta.fischli.org</string>
+    <string name="version">Version</string>
+    <string name="build">build</string>
+</resources>
